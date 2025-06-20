@@ -1,0 +1,5 @@
+export {default as Home} from './Home'
+export {default as AnimeDetail} from './AnimeDetail'
+export {default as Searchfeed} from './Searchfeed'
+export {default as Navbar} from './Navbar'
+export {default as Animecard} from './AnimeCard'
