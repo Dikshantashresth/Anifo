@@ -1,6 +1,6 @@
 import {
   createBrowserRouter,
-  RouterProvider,
+  HashRouter,
 } from 'react-router-dom';
 import { Home, AnimeDetail, Searchfeed } from './Components';
 import Overview from './Components/Overview';
@@ -51,7 +51,7 @@ const router = createBrowserRouter([
 export default function App() {
   return (
     <Watchlistprovider>
-      <RouterProvider router={router} />
+      <HashRouter router={router} />
     </Watchlistprovider>
   );
 }
