@@ -1,12 +1,41 @@
-# React + Vite
+# Anifo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Anifo** is a modern anime discovery web app built with **React**, **Vite**, and the **Jikan API**. It allows users to browse currently airing anime, view details, characters, producers, and manage a watchlist — all with smooth navigation and modern UI.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [https://dikshantashresth.github.io/Anifo/](https://dikshantashresth.github.io/Anifo/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 🔎 Search anime by name
+- 📺 View trending and seasonal anime
+- 🧠 See characters and producers
+- 📄 Add anime to your custom watchlist
+- ⚡ Super-fast Vite build & deploy
+- 🎨 Built using Material UI and Framer Motion
+
+---
+
+## 🛠 Tech Stack
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [React Router DOM](https://reactrouter.com/en/main)
+- [Material UI](https://mui.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Jikan API](https://docs.api.jikan.moe/)
+- [GitHub Pages](https://pages.github.com/)
+
+---
+
+## 🚀 Getting Started
+
+### 📦 Installation
+
+```bash
+git clone https://github.com/Dikshantashresth/Anifo.git
+cd Anifo
+npm install
